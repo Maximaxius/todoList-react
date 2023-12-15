@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.h1-not-found {
+  font-size: 200px;
+  color: #f8c1bb;
+  margin: 0;
+  line-height: 1;
+}
+
+.notfound {
+  font-size: 26px;
+  color: #333;
+  margin-top: 0;
+}
+
+.description {
+  font-size: 16px;
+  color: #999;
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ffdbd7;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all 0.7s ease;
+}
+
+.btn:hover {
+  background-color: #9cffb1bd;
+  color: #413b3b;
+}
